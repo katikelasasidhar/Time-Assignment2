@@ -90,10 +90,11 @@ function getLatestNews(lines) {
         requiredOutput.push(requiredItem); //link and title are pushed to the requiredOutput
         count++;
       }
-      if (count == 5) {
+    
+    }
+    if (count == 5) {
         break;
       }
-    }
     i = 0;
   }
   return requiredOutput;
