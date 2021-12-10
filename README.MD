@@ -8,7 +8,8 @@
 
 ## Local Host 
 
-http://localhost:8000/getLatestStories
+http://localhost:4000/getLatestStories
 
 ## Heroku Deployed Link
 
+https://time-assignment2.herokuapp.com/getLatestStories
